@@ -2,7 +2,7 @@ package clase_5;
 
 import static clase_5.Main.entrada;
 
-public class calcularPropina {
+public class CalcularPropina {
     public static void propina() {
         System.out.println("ingrese el total de la cuenta en un restorante: ");
         double totalCuenta = entrada.nextDouble();

@@ -2,7 +2,7 @@ package clase_5;
 
 import static clase_5.Main.entrada;
 
-public class calcularDescuento {
+public class CalcularDescuento {
     public static void descuento() {
         System.out.println("ingrese el precio sin descuento");
         double precioOriginal = entrada.nextDouble();

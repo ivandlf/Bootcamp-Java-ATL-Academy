@@ -1,6 +1,6 @@
 package clase_5;
 
-public class menu {
+public class Menu {
     public static void menu() {
         System.out.print("""
                 Hola! Bienvenido a la calculadora de conversiones

@@ -2,7 +2,7 @@ package clase_5;
 
 import static clase_5.Main.entrada;
 
-public class adivinarNumero {
+public class AdivinarNumero {
     public static void adivinarNumero() {
         int numeroAleatorio = (int) ((Math.random()) * 100);
         System.out.println("Adivine el numero secreto(entre 0 y 100): ");

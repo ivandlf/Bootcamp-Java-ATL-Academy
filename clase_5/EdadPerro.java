@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import static java.lang.System.*;
 
-public class edadPerro {
+public class EdadPerro {
     public static void calcularEdadPerro (){
         Scanner entrada = new Scanner(in);
         out.println("ingresa la edad de tu perro");
